@@ -1,1 +1,1 @@
-Some smoll beginner cybersecurity/networking projects I made in Python
+Some beginner cybersecurity/networking projects I made in Python
